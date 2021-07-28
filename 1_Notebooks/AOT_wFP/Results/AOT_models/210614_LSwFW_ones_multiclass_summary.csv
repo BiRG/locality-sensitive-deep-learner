@@ -1,0 +1,15 @@
+Model,Label,Metric,Type,Score
+LSwFW_ones,EPA_category,NER,Train,0.9627723287086583
+LSwFW_ones,EPA_category,Sensitivity,Train,0.9514954483049503
+LSwFW_ones,EPA_category,Specificity,Train,0.9740492091123663
+LSwFW_ones,EPA_category,NER,Test,0.7110831573811132
+LSwFW_ones,EPA_category,Sensitivity,Test,0.5779557447184582
+LSwFW_ones,EPA_category,Specificity,Test,0.844210570043768
+LSwFW_ones,EPA_category,Model Score,TrainTest,0.8002768508803983
+LSwFW_ones,GHS_category,NER,Train,0.9734863202569368
+LSwFW_ones,GHS_category,Sensitivity,Train,0.9604493477266998
+LSwFW_ones,GHS_category,Specificity,Train,0.9865232927871739
+LSwFW_ones,GHS_category,NER,Test,0.7014754167154584
+LSwFW_ones,GHS_category,Sensitivity,Test,0.5204499588257806
+LSwFW_ones,GHS_category,Specificity,Test,0.8825008746051362
+LSwFW_ones,GHS_category,Model Score,TrainTest,0.7811706289483008

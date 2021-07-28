@@ -1,0 +1,15 @@
+Model,Label,Metric,Type,Score
+xgboost,EPA_category,NER,Train,0.9906842818428184
+xgboost,EPA_category,Sensitivity,Train,0.9850948509485095
+xgboost,EPA_category,Specificity,Train,0.9962737127371274
+xgboost,EPA_category,NER,Test,0.7859079776067179
+xgboost,EPA_category,Sensitivity,Test,0.6574527641707488
+xgboost,EPA_category,Specificity,Test,0.9143631910426872
+xgboost,EPA_category,model score,TrainTest,0.8437216308853955
+xgboost,GHS_category,NER,Train,0.991799238180596
+xgboost,GHS_category,Sensitivity,Train,0.9863320636343267
+xgboost,GHS_category,Specificity,Train,0.9972664127268653
+xgboost,GHS_category,NER,Test,0.7877692842251564
+xgboost,GHS_category,Sensitivity,Test,0.6462821403752605
+xgboost,GHS_category,Specificity,Test,0.9292564280750522
+xgboost,GHS_category,model score,TrainTest,0.8412320558021892

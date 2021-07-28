@@ -1,0 +1,6 @@
+Model,Split,Label,Metric,Type,Score
+dense_model,0,SR-ARE,AUC,Test,0.7784676028578468
+dense_model,0,SR-ATAD5,AUC,Test,0.7439645142524723
+dense_model,0,SR-HSE,AUC,Test,0.683572014959409
+dense_model,0,SR-MMP,AUC,Test,0.910220893781439
+dense_model,0,SR-p53,AUC,Test,0.7768872113676731

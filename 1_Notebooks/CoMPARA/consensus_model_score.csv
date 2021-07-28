@@ -1,0 +1,4 @@
+Model,Label,Metric,Split,Score
+CoMPARA Consensus,Agonist,Model Score,TrainTest,0.884625
+CoMPARA Consensus,Antagonist,Model Score,TrainTest,0.8151999999999999
+CoMPARA Consensus,Binding,Model Score,TrainTest,0.838525

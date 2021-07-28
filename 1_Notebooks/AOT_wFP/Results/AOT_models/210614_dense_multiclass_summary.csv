@@ -1,0 +1,15 @@
+Model,Label,Metric,Type,Score
+dense,EPA_category,NER,Train,0.9525011353165218
+dense,EPA_category,Sensitivity,Train,0.9371615110879452
+dense,EPA_category,Specificity,Train,0.9678407595450984
+dense,EPA_category,NER,Test,0.7227336572601584
+dense,EPA_category,Sensitivity,Test,0.5942560483813191
+dense,EPA_category,Specificity,Test,0.8512112661389977
+dense,EPA_category,Model Score,TrainTest,0.8077943841808981
+dense,GHS_category,NER,Train,0.923718239012147
+dense,GHS_category,Sensitivity,Train,0.8919392950504292
+dense,GHS_category,Specificity,Train,0.9554971829738648
+dense,GHS_category,NER,Test,0.6942343252133356
+dense,GHS_category,Sensitivity,Test,0.504910323877802
+dense,GHS_category,Specificity,Test,0.8835583265488692
+dense,GHS_category,Model Score,TrainTest,0.7734559739113455

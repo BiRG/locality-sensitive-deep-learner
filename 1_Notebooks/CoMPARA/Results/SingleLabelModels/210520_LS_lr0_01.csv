@@ -1,0 +1,22 @@
+Model,Label,Metric,Split,Score
+LS,AgonistClass,NER,Train,0.5658530969376008
+LS,AgonistClass,Sensitivity,Train,0.9534883720930233
+LS,AgonistClass,Specificity,Train,0.1782178217821782
+LS,AgonistClass,NER,Test,0.5789584617090231
+LS,AgonistClass,Sensitivity,Test,0.9578313253012049
+LS,AgonistClass,Specificity,Test,0.20008559811684143
+LS,AgonistClass,Model Score,TrainTest,0.6008547019045177
+LS,AntagonistClass,NER,Train,0.526137922778714
+LS,AntagonistClass,Sensitivity,Train,0.9937106918238994
+LS,AntagonistClass,Specificity,Train,0.05856515373352855
+LS,AntagonistClass,NER,Test,0.5122193131652876
+LS,AntagonistClass,Sensitivity,Test,0.9633802816901409
+LS,AntagonistClass,Specificity,Test,0.06105834464043419
+LS,AntagonistClass,Model Score,TrainTest,0.5373818350973951
+LS,BindingClass,NER,Train,0.4913375558867362
+LS,BindingClass,Sensitivity,Train,0.9696969696969697
+LS,BindingClass,Specificity,Train,0.012978142076502733
+LS,BindingClass,NER,Test,0.5042615908563173
+LS,BindingClass,Sensitivity,Test,0.9933628318584071
+LS,BindingClass,Specificity,Test,0.015160349854227406
+LS,BindingClass,Model Score,TrainTest,0.515630249557153

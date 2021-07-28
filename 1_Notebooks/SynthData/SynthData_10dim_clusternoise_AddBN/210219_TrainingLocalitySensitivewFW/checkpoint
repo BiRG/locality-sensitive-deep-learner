@@ -1,0 +1,2 @@
+model_checkpoint_path: "LocalitySensitivewFW_SynthData"
+all_model_checkpoint_paths: "LocalitySensitivewFW_SynthData"

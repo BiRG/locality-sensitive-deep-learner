@@ -1,0 +1,13 @@
+Model,Split,Label,Metric,Type,Score
+dense_model,0,NR-AR,AUC,Test,0.8368857312018947
+dense_model,0,NR-AhR,AUC,Test,0.8950994001938237
+dense_model,0,NR-AR-LBD,AUC,Test,0.8135026737967915
+dense_model,0,NR-ER,AUC,Test,0.8221006564551422
+dense_model,0,NR-ER-LBD,AUC,Test,0.7585537918871251
+dense_model,0,NR-Aromatase,AUC,Test,0.7866554054054054
+dense_model,0,NR-PPAR-gamma,AUC,Test,0.8445233866193014
+dense_model,0,SR-ARE,AUC,Test,0.7655580192165558
+dense_model,0,SR-ATAD5,AUC,Test,0.5213059918557301
+dense_model,0,SR-HSE,AUC,Test,0.5209340508984768
+dense_model,0,SR-MMP,AUC,Test,0.6758037471750383
+dense_model,0,SR-p53,AUC,Test,0.6059724689165187

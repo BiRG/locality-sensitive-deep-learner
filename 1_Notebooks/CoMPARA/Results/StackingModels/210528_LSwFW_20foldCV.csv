@@ -1,0 +1,301 @@
+Model,Label,Split,Metric,Type,Score
+LSwFW,AgonistClass,0,Sensitivity,Train,1.0
+LSwFW,AgonistClass,0,Specificity,Train,1.0
+LSwFW,AgonistClass,0,Sensitivity,Test,0.0
+LSwFW,AgonistClass,0,Specificity,Test,0.9991440188315857
+LSwFW,AgonistClass,0,Model Score,TrainTest,0.5823737427776589
+LSwFW,AgonistClass,1,Sensitivity,Train,1.0
+LSwFW,AgonistClass,1,Specificity,Train,1.0
+LSwFW,AgonistClass,1,Sensitivity,Test,0.0
+LSwFW,AgonistClass,1,Specificity,Test,0.9982880376631714
+LSwFW,AgonistClass,1,Model Score,TrainTest,0.5822474855553177
+LSwFW,AgonistClass,2,Sensitivity,Train,1.0
+LSwFW,AgonistClass,2,Specificity,Train,1.0
+LSwFW,AgonistClass,2,Sensitivity,Test,0.0
+LSwFW,AgonistClass,2,Specificity,Test,0.9995720094157928
+LSwFW,AgonistClass,2,Model Score,TrainTest,0.5824368713888295
+LSwFW,AgonistClass,3,Sensitivity,Train,1.0
+LSwFW,AgonistClass,3,Specificity,Train,1.0
+LSwFW,AgonistClass,3,Sensitivity,Test,0.0
+LSwFW,AgonistClass,3,Specificity,Test,0.9993580141236893
+LSwFW,AgonistClass,3,Model Score,TrainTest,0.5824053070832442
+LSwFW,AgonistClass,4,Sensitivity,Train,1.0
+LSwFW,AgonistClass,4,Specificity,Train,1.0
+LSwFW,AgonistClass,4,Sensitivity,Test,0.0
+LSwFW,AgonistClass,4,Specificity,Test,0.9989300235394821
+LSwFW,AgonistClass,4,Model Score,TrainTest,0.5823421784720736
+LSwFW,AgonistClass,5,Sensitivity,Train,1.0
+LSwFW,AgonistClass,5,Specificity,Train,1.0
+LSwFW,AgonistClass,5,Sensitivity,Test,0.0
+LSwFW,AgonistClass,5,Specificity,Test,0.9989300235394821
+LSwFW,AgonistClass,5,Model Score,TrainTest,0.5823421784720736
+LSwFW,AgonistClass,6,Sensitivity,Train,1.0
+LSwFW,AgonistClass,6,Specificity,Train,1.0
+LSwFW,AgonistClass,6,Sensitivity,Test,0.0
+LSwFW,AgonistClass,6,Specificity,Test,0.9987160282473786
+LSwFW,AgonistClass,6,Model Score,TrainTest,0.5823106141664883
+LSwFW,AgonistClass,7,Sensitivity,Train,1.0
+LSwFW,AgonistClass,7,Specificity,Train,1.0
+LSwFW,AgonistClass,7,Sensitivity,Test,0.0
+LSwFW,AgonistClass,7,Specificity,Test,0.9987160282473786
+LSwFW,AgonistClass,7,Model Score,TrainTest,0.5823106141664883
+LSwFW,AgonistClass,8,Sensitivity,Train,1.0
+LSwFW,AgonistClass,8,Specificity,Train,1.0
+LSwFW,AgonistClass,8,Sensitivity,Test,0.0
+LSwFW,AgonistClass,8,Specificity,Test,0.9993580141236893
+LSwFW,AgonistClass,8,Model Score,TrainTest,0.5824053070832442
+LSwFW,AgonistClass,9,Sensitivity,Train,1.0
+LSwFW,AgonistClass,9,Specificity,Train,1.0
+LSwFW,AgonistClass,9,Sensitivity,Test,0.0
+LSwFW,AgonistClass,9,Specificity,Test,0.9989300235394821
+LSwFW,AgonistClass,9,Model Score,TrainTest,0.5823421784720736
+LSwFW,AgonistClass,10,Sensitivity,Train,1.0
+LSwFW,AgonistClass,10,Specificity,Train,1.0
+LSwFW,AgonistClass,10,Sensitivity,Test,0.0
+LSwFW,AgonistClass,10,Specificity,Test,1.0
+LSwFW,AgonistClass,10,Model Score,TrainTest,0.5825
+LSwFW,AgonistClass,11,Sensitivity,Train,1.0
+LSwFW,AgonistClass,11,Specificity,Train,1.0
+LSwFW,AgonistClass,11,Sensitivity,Test,0.0
+LSwFW,AgonistClass,11,Specificity,Test,0.9989300235394821
+LSwFW,AgonistClass,11,Model Score,TrainTest,0.5823421784720736
+LSwFW,AgonistClass,12,Sensitivity,Train,1.0
+LSwFW,AgonistClass,12,Specificity,Train,1.0
+LSwFW,AgonistClass,12,Sensitivity,Test,0.0
+LSwFW,AgonistClass,12,Specificity,Test,0.9995720094157928
+LSwFW,AgonistClass,12,Model Score,TrainTest,0.5824368713888295
+LSwFW,AgonistClass,13,Sensitivity,Train,1.0
+LSwFW,AgonistClass,13,Specificity,Train,1.0
+LSwFW,AgonistClass,13,Sensitivity,Test,0.0
+LSwFW,AgonistClass,13,Specificity,Test,0.9987160282473786
+LSwFW,AgonistClass,13,Model Score,TrainTest,0.5823106141664883
+LSwFW,AgonistClass,14,Sensitivity,Train,1.0
+LSwFW,AgonistClass,14,Specificity,Train,1.0
+LSwFW,AgonistClass,14,Sensitivity,Test,0.0
+LSwFW,AgonistClass,14,Specificity,Test,0.9995720094157928
+LSwFW,AgonistClass,14,Model Score,TrainTest,0.5824368713888295
+LSwFW,AgonistClass,15,Sensitivity,Train,1.0
+LSwFW,AgonistClass,15,Specificity,Train,1.0
+LSwFW,AgonistClass,15,Sensitivity,Test,0.0
+LSwFW,AgonistClass,15,Specificity,Test,0.9987160282473786
+LSwFW,AgonistClass,15,Model Score,TrainTest,0.5823106141664883
+LSwFW,AgonistClass,16,Sensitivity,Train,1.0
+LSwFW,AgonistClass,16,Specificity,Train,1.0
+LSwFW,AgonistClass,16,Sensitivity,Test,0.0
+LSwFW,AgonistClass,16,Specificity,Test,0.9995720094157928
+LSwFW,AgonistClass,16,Model Score,TrainTest,0.5824368713888295
+LSwFW,AgonistClass,17,Sensitivity,Train,1.0
+LSwFW,AgonistClass,17,Specificity,Train,1.0
+LSwFW,AgonistClass,17,Sensitivity,Test,0.0
+LSwFW,AgonistClass,17,Specificity,Test,0.9987160282473786
+LSwFW,AgonistClass,17,Model Score,TrainTest,0.5823106141664883
+LSwFW,AgonistClass,18,Sensitivity,Train,1.0
+LSwFW,AgonistClass,18,Specificity,Train,1.0
+LSwFW,AgonistClass,18,Sensitivity,Test,0.0
+LSwFW,AgonistClass,18,Specificity,Test,0.9989300235394821
+LSwFW,AgonistClass,18,Model Score,TrainTest,0.5823421784720736
+LSwFW,AgonistClass,19,Sensitivity,Train,1.0
+LSwFW,AgonistClass,19,Specificity,Train,1.0
+LSwFW,AgonistClass,19,Sensitivity,Test,0.0
+LSwFW,AgonistClass,19,Specificity,Test,1.0
+LSwFW,AgonistClass,19,Model Score,TrainTest,0.5825
+LSwFW,AntagonistClass,0,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,0,Specificity,Train,1.0
+LSwFW,AntagonistClass,0,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,0,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,0,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,1,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,1,Specificity,Train,1.0
+LSwFW,AntagonistClass,1,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,1,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,1,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,2,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,2,Specificity,Train,1.0
+LSwFW,AntagonistClass,2,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,2,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,2,Model Score,TrainTest,0.590612312955071
+LSwFW,AntagonistClass,3,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,3,Specificity,Train,1.0
+LSwFW,AntagonistClass,3,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,3,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,3,Model Score,TrainTest,0.5905722858180289
+LSwFW,AntagonistClass,4,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,4,Specificity,Train,1.0
+LSwFW,AntagonistClass,4,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,4,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,4,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,5,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,5,Specificity,Train,1.0
+LSwFW,AntagonistClass,5,Sensitivity,Test,0.016901408450704224
+LSwFW,AntagonistClass,5,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,5,Model Score,TrainTest,0.5894362566170428
+LSwFW,AntagonistClass,6,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,6,Specificity,Train,1.0
+LSwFW,AntagonistClass,6,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,6,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,6,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,7,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,7,Specificity,Train,1.0
+LSwFW,AntagonistClass,7,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,7,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,7,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,8,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,8,Specificity,Train,1.0
+LSwFW,AntagonistClass,8,Sensitivity,Test,0.016901408450704224
+LSwFW,AntagonistClass,8,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,8,Model Score,TrainTest,0.5893962294800008
+LSwFW,AntagonistClass,9,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,9,Specificity,Train,1.0
+LSwFW,AntagonistClass,9,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,9,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,9,Model Score,TrainTest,0.5882201731419726
+LSwFW,AntagonistClass,10,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,10,Specificity,Train,1.0
+LSwFW,AntagonistClass,10,Sensitivity,Test,0.016901408450704224
+LSwFW,AntagonistClass,10,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,10,Model Score,TrainTest,0.5894362566170428
+LSwFW,AntagonistClass,11,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,11,Specificity,Train,1.0
+LSwFW,AntagonistClass,11,Sensitivity,Test,0.016901408450704224
+LSwFW,AntagonistClass,11,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,11,Model Score,TrainTest,0.5893962294800008
+LSwFW,AntagonistClass,12,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,12,Specificity,Train,1.0
+LSwFW,AntagonistClass,12,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,12,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,12,Model Score,TrainTest,0.590612312955071
+LSwFW,AntagonistClass,13,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,13,Specificity,Train,1.0
+LSwFW,AntagonistClass,13,Sensitivity,Test,0.022535211267605635
+LSwFW,AntagonistClass,13,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,13,Model Score,TrainTest,0.5917483421560571
+LSwFW,AntagonistClass,14,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,14,Specificity,Train,1.0
+LSwFW,AntagonistClass,14,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,14,Specificity,Test,0.9986431478968792
+LSwFW,AntagonistClass,14,Model Score,TrainTest,0.5905322586809869
+LSwFW,AntagonistClass,15,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,15,Specificity,Train,1.0
+LSwFW,AntagonistClass,15,Sensitivity,Test,0.016901408450704224
+LSwFW,AntagonistClass,15,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,15,Model Score,TrainTest,0.5893962294800008
+LSwFW,AntagonistClass,16,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,16,Specificity,Train,1.0
+LSwFW,AntagonistClass,16,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,16,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,16,Model Score,TrainTest,0.5905722858180289
+LSwFW,AntagonistClass,17,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,17,Specificity,Train,1.0
+LSwFW,AntagonistClass,17,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,17,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,17,Model Score,TrainTest,0.5882602002790146
+LSwFW,AntagonistClass,18,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,18,Specificity,Train,1.0
+LSwFW,AntagonistClass,18,Sensitivity,Test,0.01971830985915493
+LSwFW,AntagonistClass,18,Specificity,Test,0.9989145183175034
+LSwFW,AntagonistClass,18,Model Score,TrainTest,0.5905722858180289
+LSwFW,AntagonistClass,19,Sensitivity,Train,1.0
+LSwFW,AntagonistClass,19,Specificity,Train,1.0
+LSwFW,AntagonistClass,19,Sensitivity,Test,0.014084507042253521
+LSwFW,AntagonistClass,19,Specificity,Test,0.9991858887381275
+LSwFW,AntagonistClass,19,Model Score,TrainTest,0.5882602002790146
+LSwFW,BindingClass,0,Sensitivity,Train,1.0
+LSwFW,BindingClass,0,Specificity,Train,1.0
+LSwFW,BindingClass,0,Sensitivity,Test,0.01327433628318584
+LSwFW,BindingClass,0,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,0,Model Score,TrainTest,0.5877840179055187
+LSwFW,BindingClass,1,Sensitivity,Train,1.0
+LSwFW,BindingClass,1,Specificity,Train,1.0
+LSwFW,BindingClass,1,Sensitivity,Test,0.015486725663716814
+LSwFW,BindingClass,1,Specificity,Test,0.9988338192419826
+LSwFW,BindingClass,1,Model Score,TrainTest,0.5887936963027942
+LSwFW,BindingClass,2,Sensitivity,Train,1.0
+LSwFW,BindingClass,2,Specificity,Train,1.0
+LSwFW,BindingClass,2,Sensitivity,Test,0.01991150442477876
+LSwFW,BindingClass,2,Specificity,Test,0.9988338192419826
+LSwFW,BindingClass,2,Model Score,TrainTest,0.5906410414355376
+LSwFW,BindingClass,3,Sensitivity,Train,1.0
+LSwFW,BindingClass,3,Specificity,Train,1.0
+LSwFW,BindingClass,3,Sensitivity,Test,0.01327433628318584
+LSwFW,BindingClass,3,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,3,Model Score,TrainTest,0.5877840179055187
+LSwFW,BindingClass,4,Sensitivity,Train,1.0
+LSwFW,BindingClass,4,Specificity,Train,1.0
+LSwFW,BindingClass,4,Sensitivity,Test,0.01327433628318584
+LSwFW,BindingClass,4,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,4,Model Score,TrainTest,0.5877840179055187
+LSwFW,BindingClass,5,Sensitivity,Train,1.0
+LSwFW,BindingClass,5,Specificity,Train,1.0
+LSwFW,BindingClass,5,Sensitivity,Test,0.01991150442477876
+LSwFW,BindingClass,5,Specificity,Test,0.997667638483965
+LSwFW,BindingClass,5,Model Score,TrainTest,0.59046902977373
+LSwFW,BindingClass,6,Sensitivity,Train,1.0
+LSwFW,BindingClass,6,Specificity,Train,1.0
+LSwFW,BindingClass,6,Sensitivity,Test,0.017699115044247787
+LSwFW,BindingClass,6,Specificity,Test,0.9979591836734694
+LSwFW,BindingClass,6,Model Score,TrainTest,0.5895883601228102
+LSwFW,BindingClass,7,Sensitivity,Train,1.0
+LSwFW,BindingClass,7,Specificity,Train,1.0
+LSwFW,BindingClass,7,Sensitivity,Test,0.017699115044247787
+LSwFW,BindingClass,7,Specificity,Test,0.9967930029154519
+LSwFW,BindingClass,7,Model Score,TrainTest,0.5894163484610025
+LSwFW,BindingClass,8,Sensitivity,Train,1.0
+LSwFW,BindingClass,8,Specificity,Train,1.0
+LSwFW,BindingClass,8,Sensitivity,Test,0.015486725663716814
+LSwFW,BindingClass,8,Specificity,Test,0.997667638483965
+LSwFW,BindingClass,8,Model Score,TrainTest,0.5886216846409866
+LSwFW,BindingClass,9,Sensitivity,Train,1.0
+LSwFW,BindingClass,9,Specificity,Train,1.0
+LSwFW,BindingClass,9,Sensitivity,Test,0.015486725663716814
+LSwFW,BindingClass,9,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,9,Model Score,TrainTest,0.5887076904718904
+LSwFW,BindingClass,10,Sensitivity,Train,1.0
+LSwFW,BindingClass,10,Specificity,Train,1.0
+LSwFW,BindingClass,10,Sensitivity,Test,0.01327433628318584
+LSwFW,BindingClass,10,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,10,Model Score,TrainTest,0.5877840179055187
+LSwFW,BindingClass,11,Sensitivity,Train,1.0
+LSwFW,BindingClass,11,Specificity,Train,1.0
+LSwFW,BindingClass,11,Sensitivity,Test,0.015486725663716814
+LSwFW,BindingClass,11,Specificity,Test,0.9979591836734694
+LSwFW,BindingClass,11,Model Score,TrainTest,0.5886646875564385
+LSwFW,BindingClass,12,Sensitivity,Train,1.0
+LSwFW,BindingClass,12,Specificity,Train,1.0
+LSwFW,BindingClass,12,Sensitivity,Test,0.015486725663716814
+LSwFW,BindingClass,12,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,12,Model Score,TrainTest,0.5887076904718904
+LSwFW,BindingClass,13,Sensitivity,Train,1.0
+LSwFW,BindingClass,13,Specificity,Train,1.0
+LSwFW,BindingClass,13,Sensitivity,Test,0.017699115044247787
+LSwFW,BindingClass,13,Specificity,Test,0.9979591836734694
+LSwFW,BindingClass,13,Model Score,TrainTest,0.5895883601228102
+LSwFW,BindingClass,14,Sensitivity,Train,1.0
+LSwFW,BindingClass,14,Specificity,Train,1.0
+LSwFW,BindingClass,14,Sensitivity,Test,0.01991150442477876
+LSwFW,BindingClass,14,Specificity,Test,0.9985422740524781
+LSwFW,BindingClass,14,Model Score,TrainTest,0.5905980385200856
+LSwFW,BindingClass,15,Sensitivity,Train,1.0
+LSwFW,BindingClass,15,Specificity,Train,1.0
+LSwFW,BindingClass,15,Sensitivity,Test,0.017699115044247787
+LSwFW,BindingClass,15,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,15,Model Score,TrainTest,0.589631363038262
+LSwFW,BindingClass,16,Sensitivity,Train,1.0
+LSwFW,BindingClass,16,Specificity,Train,1.0
+LSwFW,BindingClass,16,Sensitivity,Test,0.01991150442477876
+LSwFW,BindingClass,16,Specificity,Test,0.9979591836734694
+LSwFW,BindingClass,16,Model Score,TrainTest,0.5905120326891818
+LSwFW,BindingClass,17,Sensitivity,Train,1.0
+LSwFW,BindingClass,17,Specificity,Train,1.0
+LSwFW,BindingClass,17,Sensitivity,Test,0.017699115044247787
+LSwFW,BindingClass,17,Specificity,Test,0.997667638483965
+LSwFW,BindingClass,17,Model Score,TrainTest,0.5895453572073582
+LSwFW,BindingClass,18,Sensitivity,Train,1.0
+LSwFW,BindingClass,18,Specificity,Train,1.0
+LSwFW,BindingClass,18,Sensitivity,Test,0.01327433628318584
+LSwFW,BindingClass,18,Specificity,Test,0.9982507288629737
+LSwFW,BindingClass,18,Model Score,TrainTest,0.5877840179055187
+LSwFW,BindingClass,19,Sensitivity,Train,1.0
+LSwFW,BindingClass,19,Specificity,Train,1.0
+LSwFW,BindingClass,19,Sensitivity,Test,0.01991150442477876
+LSwFW,BindingClass,19,Specificity,Test,0.9988338192419826
+LSwFW,BindingClass,19,Model Score,TrainTest,0.5906410414355376

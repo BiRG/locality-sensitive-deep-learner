@@ -1,0 +1,15 @@
+Model,Label,Metric,Type,Score
+LSwFW_ones,very_toxic,NER,Train,0.9094715728215921
+LSwFW_ones,very_toxic,Sensitivity,Train,0.9551630434782609
+LSwFW_ones,very_toxic,Specificity,Train,0.8637801021649234
+LSwFW_ones,very_toxic,NER,Test,0.8294725848726521
+LSwFW_ones,very_toxic,Sensitivity,Test,0.8189300411522634
+LSwFW_ones,very_toxic,Specificity,Test,0.8400151285930408
+LSwFW_ones,very_toxic,Model Score,TrainTest,0.8962021960174793
+LSwFW_ones,nontoxic,NER,Train,0.8928861937863064
+LSwFW_ones,nontoxic,Sensitivity,Train,0.9020833333333333
+LSwFW_ones,nontoxic,Specificity,Train,0.8836890542392795
+LSwFW_ones,nontoxic,NER,Test,0.7713155213482218
+LSwFW_ones,nontoxic,Sensitivity,Test,0.7587327376116978
+LSwFW_ones,nontoxic,Specificity,Test,0.7838983050847458
+LSwFW_ones,nontoxic,Model Score,TrainTest,0.8700249850829668

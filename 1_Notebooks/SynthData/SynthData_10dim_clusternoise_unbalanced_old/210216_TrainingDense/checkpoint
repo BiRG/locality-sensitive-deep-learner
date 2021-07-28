@@ -1,0 +1,2 @@
+model_checkpoint_path: "Dense_label"
+all_model_checkpoint_paths: "Dense_label"

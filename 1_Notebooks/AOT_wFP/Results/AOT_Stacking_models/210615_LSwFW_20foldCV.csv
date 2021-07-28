@@ -1,0 +1,461 @@
+Model,Label,Split,Metric,Type,Score
+LSwFW,very_toxic,0,Sensitivity,Train,1.0
+LSwFW,very_toxic,0,Specificity,Train,0.9983354673495518
+LSwFW,very_toxic,0,Sensitivity,Test,0.551440329218107
+LSwFW,very_toxic,0,Specificity,Test,0.9701210287443268
+LSwFW,very_toxic,0,Model Score,TrainTest,0.8082026719028165
+LSwFW,very_toxic,1,Sensitivity,Train,1.0
+LSwFW,very_toxic,1,Specificity,Train,0.9982074263764404
+LSwFW,very_toxic,1,Sensitivity,Test,0.5349794238683128
+LSwFW,very_toxic,1,Specificity,Test,0.9708774583963692
+LSwFW,very_toxic,1,Model Score,TrainTest,0.8014328544248358
+LSwFW,very_toxic,2,Sensitivity,Train,1.0
+LSwFW,very_toxic,2,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,2,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,2,Specificity,Test,0.9708774583963692
+LSwFW,very_toxic,2,Model Score,TrainTest,0.8048690844811495
+LSwFW,very_toxic,3,Sensitivity,Train,1.0
+LSwFW,very_toxic,3,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,3,Sensitivity,Test,0.5349794238683128
+LSwFW,very_toxic,3,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,3,Model Score,TrainTest,0.8014886571762181
+LSwFW,very_toxic,4,Sensitivity,Train,1.0
+LSwFW,very_toxic,4,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,4,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,4,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,4,Model Score,TrainTest,0.8049248711679875
+LSwFW,very_toxic,5,Sensitivity,Train,1.0
+LSwFW,very_toxic,5,Specificity,Train,0.999231852515683
+LSwFW,very_toxic,5,Sensitivity,Test,0.5555555555555556
+LSwFW,very_toxic,5,Specificity,Test,0.9693645990922845
+LSwFW,very_toxic,5,Model Score,TrainTest,0.8098719524866543
+LSwFW,very_toxic,6,Sensitivity,Train,1.0
+LSwFW,very_toxic,6,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,6,Sensitivity,Test,0.5473251028806584
+LSwFW,very_toxic,6,Specificity,Test,0.9693645990922845
+LSwFW,very_toxic,6,Model Score,TrainTest,0.8063640447296816
+LSwFW,very_toxic,7,Sensitivity,Train,1.0
+LSwFW,very_toxic,7,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,7,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,7,Specificity,Test,0.9689863842662633
+LSwFW,very_toxic,7,Model Score,TrainTest,0.8045991127676093
+LSwFW,very_toxic,8,Sensitivity,Train,1.0
+LSwFW,very_toxic,8,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,8,Sensitivity,Test,0.5349794238683128
+LSwFW,very_toxic,8,Specificity,Test,0.9708774583963692
+LSwFW,very_toxic,8,Model Score,TrainTest,0.8014418322100302
+LSwFW,very_toxic,9,Sensitivity,Train,1.0
+LSwFW,very_toxic,9,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,9,Sensitivity,Test,0.5390946502057613
+LSwFW,very_toxic,9,Specificity,Test,0.9720121028744326
+LSwFW,very_toxic,9,Model Score,TrainTest,0.8033272992664294
+LSwFW,very_toxic,10,Sensitivity,Train,1.0
+LSwFW,very_toxic,10,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,10,Sensitivity,Test,0.5473251028806584
+LSwFW,very_toxic,10,Specificity,Test,0.9708774583963692
+LSwFW,very_toxic,10,Model Score,TrainTest,0.8065871914770342
+LSwFW,very_toxic,11,Sensitivity,Train,1.0
+LSwFW,very_toxic,11,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,11,Sensitivity,Test,0.5390946502057613
+LSwFW,very_toxic,11,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,11,Model Score,TrainTest,0.8032157258927533
+LSwFW,very_toxic,12,Sensitivity,Train,1.0
+LSwFW,very_toxic,12,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,12,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,12,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,12,Model Score,TrainTest,0.804933832888638
+LSwFW,very_toxic,13,Sensitivity,Train,1.0
+LSwFW,very_toxic,13,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,13,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,13,Specificity,Test,0.9720121028744326
+LSwFW,very_toxic,13,Model Score,TrainTest,0.8050364445416638
+LSwFW,very_toxic,14,Sensitivity,Train,1.0
+LSwFW,very_toxic,14,Specificity,Train,0.998207655869927
+LSwFW,very_toxic,14,Sensitivity,Test,0.5390946502057613
+LSwFW,very_toxic,14,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,14,Model Score,TrainTest,0.8032067641721028
+LSwFW,very_toxic,15,Sensitivity,Train,1.0
+LSwFW,very_toxic,15,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,15,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,15,Specificity,Test,0.9701210287443268
+LSwFW,very_toxic,15,Model Score,TrainTest,0.8047664728281236
+LSwFW,very_toxic,16,Sensitivity,Train,1.0
+LSwFW,very_toxic,16,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,16,Sensitivity,Test,0.5308641975308642
+LSwFW,very_toxic,16,Specificity,Test,0.9712556732223904
+LSwFW,very_toxic,16,Model Score,TrainTest,0.7997795119009836
+LSwFW,very_toxic,17,Sensitivity,Train,1.0
+LSwFW,very_toxic,17,Specificity,Train,0.9988477787735245
+LSwFW,very_toxic,17,Sensitivity,Test,0.5432098765432098
+LSwFW,very_toxic,17,Specificity,Test,0.9708774583963692
+LSwFW,very_toxic,17,Model Score,TrainTest,0.8049138930844013
+LSwFW,very_toxic,18,Sensitivity,Train,1.0
+LSwFW,very_toxic,18,Specificity,Train,0.9985917296120855
+LSwFW,very_toxic,18,Sensitivity,Test,0.5349794238683128
+LSwFW,very_toxic,18,Specificity,Test,0.9720121028744326
+LSwFW,very_toxic,18,Model Score,TrainTest,0.8016271157118454
+LSwFW,very_toxic,19,Sensitivity,Train,1.0
+LSwFW,very_toxic,19,Specificity,Train,0.9983356804506466
+LSwFW,very_toxic,19,Sensitivity,Test,0.5390946502057613
+LSwFW,very_toxic,19,Specificity,Test,0.9716338880484114
+LSwFW,very_toxic,19,Model Score,TrainTest,0.8032715125795913
+LSwFW,nontoxic,0,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,0,Specificity,Train,0.9886621315192744
+LSwFW,nontoxic,0,Sensitivity,Test,0.7132412672623883
+LSwFW,nontoxic,0,Specificity,Test,0.7717917675544794
+LSwFW,nontoxic,0,Model Score,TrainTest,0.8460349385640854
+LSwFW,nontoxic,1,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,1,Specificity,Train,0.9886621315192744
+LSwFW,nontoxic,1,Sensitivity,Test,0.7034930950446792
+LSwFW,nontoxic,1,Specificity,Test,0.7826876513317191
+LSwFW,nontoxic,1,Model Score,TrainTest,0.8435722195203349
+LSwFW,nontoxic,2,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,2,Specificity,Train,0.9884559884559885
+LSwFW,nontoxic,2,Sensitivity,Test,0.7026807473598701
+LSwFW,nontoxic,2,Specificity,Test,0.7730024213075061
+LSwFW,nontoxic,2,Model Score,TrainTest,0.8417900629189256
+LSwFW,nontoxic,3,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,3,Specificity,Train,0.9882498453927026
+LSwFW,nontoxic,3,Sensitivity,Test,0.710804224207961
+LSwFW,nontoxic,3,Specificity,Test,0.7730024213075061
+LSwFW,nontoxic,3,Model Score,TrainTest,0.8451671844885735
+LSwFW,nontoxic,4,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,4,Specificity,Train,0.9882498453927026
+LSwFW,nontoxic,4,Sensitivity,Test,0.7059301380991064
+LSwFW,nontoxic,4,Specificity,Test,0.7766343825665859
+LSwFW,nontoxic,4,Model Score,TrainTest,0.843667967823841
+LSwFW,nontoxic,5,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,5,Specificity,Train,0.9884559884559885
+LSwFW,nontoxic,5,Sensitivity,Test,0.7156783103168156
+LSwFW,nontoxic,5,Specificity,Test,0.7717917675544794
+LSwFW,nontoxic,5,Model Score,TrainTest,0.8470379740248788
+LSwFW,nontoxic,6,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,6,Specificity,Train,0.9882498453927026
+LSwFW,nontoxic,6,Sensitivity,Test,0.7164906580016247
+LSwFW,nontoxic,6,Specificity,Test,0.7723970944309927
+LSwFW,nontoxic,6,Model Score,TrainTest,0.8474519848831423
+LSwFW,nontoxic,7,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,7,Specificity,Train,0.988252267106348
+LSwFW,nontoxic,7,Sensitivity,Test,0.7132412672623883
+LSwFW,nontoxic,7,Specificity,Test,0.7736077481840193
+LSwFW,nontoxic,7,Model Score,TrainTest,0.8462741051980378
+LSwFW,nontoxic,8,Sensitivity,Train,0.9983552631578947
+LSwFW,nontoxic,8,Specificity,Train,0.9888705688375927
+LSwFW,nontoxic,8,Sensitivity,Test,0.7018683996750609
+LSwFW,nontoxic,8,Specificity,Test,0.7808716707021792
+LSwFW,nontoxic,8,Model Score,TrainTest,0.8426104891641722
+LSwFW,nontoxic,9,Sensitivity,Train,0.9983552631578947
+LSwFW,nontoxic,9,Specificity,Train,0.9896949711459192
+LSwFW,nontoxic,9,Sensitivity,Test,0.7043054427294883
+LSwFW,nontoxic,9,Specificity,Test,0.7808716707021792
+LSwFW,nontoxic,9,Model Score,TrainTest,0.8436856628009786
+LSwFW,nontoxic,10,Sensitivity,Train,0.9983552631578947
+LSwFW,nontoxic,10,Specificity,Train,0.9896949711459192
+LSwFW,nontoxic,10,Sensitivity,Test,0.7116165718927701
+LSwFW,nontoxic,10,Specificity,Test,0.7742130750605327
+LSwFW,nontoxic,10,Model Score,TrainTest,0.8457559163695061
+LSwFW,nontoxic,11,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,11,Specificity,Train,0.9886644682605111
+LSwFW,nontoxic,11,Sensitivity,Test,0.7164906580016247
+LSwFW,nontoxic,11,Specificity,Test,0.7772397094430993
+LSwFW,nontoxic,11,Model Score,TrainTest,0.8481952941981747
+LSwFW,nontoxic,12,Sensitivity,Train,0.9983552631578947
+LSwFW,nontoxic,12,Specificity,Train,0.9896949711459192
+LSwFW,nontoxic,12,Sensitivity,Test,0.718927701056052
+LSwFW,nontoxic,12,Specificity,Test,0.7711864406779662
+LSwFW,nontoxic,12,Model Score,TrainTest,0.8483618842237475
+LSwFW,nontoxic,13,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,13,Specificity,Train,0.9890766694146743
+LSwFW,nontoxic,13,Sensitivity,Test,0.7140536149471974
+LSwFW,nontoxic,13,Specificity,Test,0.7826876513317191
+LSwFW,nontoxic,13,Model Score,TrainTest,0.8480102542323142
+LSwFW,nontoxic,14,Sensitivity,Train,0.9986293859649122
+LSwFW,nontoxic,14,Specificity,Train,0.9890766694146743
+LSwFW,nontoxic,14,Sensitivity,Test,0.7262388302193339
+LSwFW,nontoxic,14,Specificity,Test,0.7730024213075061
+LSwFW,nontoxic,14,Model Score,TrainTest,0.8516087031623158
+LSwFW,nontoxic,15,Sensitivity,Train,0.9986293859649122
+LSwFW,nontoxic,15,Specificity,Train,0.9899010717230008
+LSwFW,nontoxic,15,Sensitivity,Test,0.7181153533712429
+LSwFW,nontoxic,15,Specificity,Test,0.7687651331719129
+LSwFW,nontoxic,15,Model Score,TrainTest,0.8476498597398208
+LSwFW,nontoxic,16,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,16,Specificity,Train,0.9903132728771641
+LSwFW,nontoxic,16,Sensitivity,Test,0.7303005686433793
+LSwFW,nontoxic,16,Specificity,Test,0.7675544794188862
+LSwFW,nontoxic,16,Model Score,TrainTest,0.8526477767857017
+LSwFW,nontoxic,17,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,17,Specificity,Train,0.989282769991756
+LSwFW,nontoxic,17,Sensitivity,Test,0.7278635255889521
+LSwFW,nontoxic,17,Specificity,Test,0.7778450363196125
+LSwFW,nontoxic,17,Model Score,TrainTest,0.8530760332513568
+LSwFW,nontoxic,18,Sensitivity,Train,0.9980811403508771
+LSwFW,nontoxic,18,Specificity,Train,0.9899010717230008
+LSwFW,nontoxic,18,Sensitivity,Test,0.7116165718927701
+LSwFW,nontoxic,18,Specificity,Test,0.7820823244552058
+LSwFW,nontoxic,18,Model Score,TrainTest,0.8469612112043878
+LSwFW,nontoxic,19,Sensitivity,Train,0.9983552631578947
+LSwFW,nontoxic,19,Specificity,Train,0.9901071723000825
+LSwFW,nontoxic,19,Sensitivity,Test,0.7229894394800975
+LSwFW,nontoxic,19,Specificity,Test,0.7699757869249395
+LSwFW,nontoxic,19,Model Score,TrainTest,0.8499079426680067
+LSwFW,LD50_mgkg,0,Rsquared,Train,0.9878289913300711
+LSwFW,LD50_mgkg,0,Rsquared,Test,0.4241589923631618
+LSwFW,LD50_mgkg,0,Model Score,TrainTest,0.6281377437041714
+LSwFW,LD50_mgkg,1,Rsquared,Train,0.9910777545378195
+LSwFW,LD50_mgkg,1,Rsquared,Test,0.40841259876091984
+LSwFW,LD50_mgkg,1,Model Score,TrainTest,0.6267752847479847
+LSwFW,LD50_mgkg,2,Rsquared,Train,0.9925776797129068
+LSwFW,LD50_mgkg,2,Rsquared,Test,0.42614730779779175
+LSwFW,LD50_mgkg,2,Model Score,TrainTest,0.631147185401657
+LSwFW,LD50_mgkg,3,Rsquared,Train,0.9925029556399693
+LSwFW,LD50_mgkg,3,Rsquared,Test,0.42828243536314214
+LSwFW,LD50_mgkg,3,Model Score,TrainTest,0.6315331126746115
+LSwFW,LD50_mgkg,4,Rsquared,Train,0.9919199462500625
+LSwFW,LD50_mgkg,4,Rsquared,Test,0.4208586027554334
+LSwFW,LD50_mgkg,4,Model Score,TrainTest,0.629727690988621
+LSwFW,LD50_mgkg,5,Rsquared,Train,0.9922566537608623
+LSwFW,LD50_mgkg,5,Rsquared,Test,0.4188719255279779
+LSwFW,LD50_mgkg,5,Model Score,TrainTest,0.6295155446740699
+LSwFW,LD50_mgkg,6,Rsquared,Train,0.9921328494264838
+LSwFW,LD50_mgkg,6,Rsquared,Test,0.4252123312512781
+LSwFW,LD50_mgkg,6,Model Score,TrainTest,0.6307155334348218
+LSwFW,LD50_mgkg,7,Rsquared,Train,0.9918269415822899
+LSwFW,LD50_mgkg,7,Rsquared,Test,0.4236967968418033
+LSwFW,LD50_mgkg,7,Model Score,TrainTest,0.6302441772386201
+LSwFW,LD50_mgkg,8,Rsquared,Train,0.9920639259026275
+LSwFW,LD50_mgkg,8,Rsquared,Test,0.42073325469075173
+LSwFW,LD50_mgkg,8,Model Score,TrainTest,0.6297818101845954
+LSwFW,LD50_mgkg,9,Rsquared,Train,0.992132460531289
+LSwFW,LD50_mgkg,9,Rsquared,Test,0.4278023256411605
+LSwFW,LD50_mgkg,9,Model Score,TrainTest,0.6312333184204411
+LSwFW,LD50_mgkg,10,Rsquared,Train,0.9922092806239856
+LSwFW,LD50_mgkg,10,Rsquared,Test,0.4307250059037555
+LSwFW,LD50_mgkg,10,Model Score,TrainTest,0.6318601055239432
+LSwFW,LD50_mgkg,11,Rsquared,Train,0.9917591195996387
+LSwFW,LD50_mgkg,11,Rsquared,Test,0.4276726129550097
+LSwFW,LD50_mgkg,11,Model Score,TrainTest,0.6310020383708033
+LSwFW,LD50_mgkg,12,Rsquared,Train,0.9920114418162101
+LSwFW,LD50_mgkg,12,Rsquared,Test,0.4289403317963897
+LSwFW,LD50_mgkg,12,Model Score,TrainTest,0.6313943593581934
+LSwFW,LD50_mgkg,13,Rsquared,Train,0.9915899969120214
+LSwFW,LD50_mgkg,13,Rsquared,Test,0.4315556491614566
+LSwFW,LD50_mgkg,13,Model Score,TrainTest,0.631685628133903
+LSwFW,LD50_mgkg,14,Rsquared,Train,0.9915832317876242
+LSwFW,LD50_mgkg,14,Rsquared,Test,0.4270287397375727
+LSwFW,LD50_mgkg,14,Model Score,TrainTest,0.6307765254307078
+LSwFW,LD50_mgkg,15,Rsquared,Train,0.9928712657552957
+LSwFW,LD50_mgkg,15,Rsquared,Test,0.4198192776216677
+LSwFW,LD50_mgkg,15,Model Score,TrainTest,0.6300430516897462
+LSwFW,LD50_mgkg,16,Rsquared,Train,0.9913348333244626
+LSwFW,LD50_mgkg,16,Rsquared,Test,0.4267530850154101
+LSwFW,LD50_mgkg,16,Model Score,TrainTest,0.6305847753315365
+LSwFW,LD50_mgkg,17,Rsquared,Train,0.9931225415914278
+LSwFW,LD50_mgkg,17,Rsquared,Test,0.43806163947075405
+LSwFW,LD50_mgkg,17,Model Score,TrainTest,0.6338297257694361
+LSwFW,LD50_mgkg,18,Rsquared,Train,0.9920440004687183
+LSwFW,LD50_mgkg,18,Rsquared,Test,0.42501361387948333
+LSwFW,LD50_mgkg,18,Model Score,TrainTest,0.6306269230336918
+LSwFW,LD50_mgkg,19,Rsquared,Train,0.9923059336884514
+LSwFW,LD50_mgkg,19,Rsquared,Test,0.43274587656101626
+LSwFW,LD50_mgkg,19,Model Score,TrainTest,0.6323174388408516
+LSwFW,EPA_category,0,Sensitivity,Train,0.984191132770712
+LSwFW,EPA_category,0,Specificity,Train,0.9947303775902373
+LSwFW,EPA_category,0,Sensitivity,Test,0.6046186144156753
+LSwFW,EPA_category,0,Specificity,Test,0.8682062048052251
+LSwFW,EPA_category,0,Model Score,TrainTest,0.814961724486339
+LSwFW,EPA_category,1,Sensitivity,Train,0.984191132770712
+LSwFW,EPA_category,1,Specificity,Train,0.9947303775902373
+LSwFW,EPA_category,1,Sensitivity,Test,0.6000699790062981
+LSwFW,EPA_category,1,Specificity,Test,0.8666899930020994
+LSwFW,EPA_category,1,Model Score,TrainTest,0.8128390279619627
+LSwFW,EPA_category,2,Sensitivity,Train,0.9843099964340901
+LSwFW,EPA_category,2,Specificity,Train,0.9947699988113634
+LSwFW,EPA_category,2,Sensitivity,Test,0.6035689293212037
+LSwFW,EPA_category,2,Specificity,Test,0.8678563097737345
+LSwFW,EPA_category,2,Model Score,TrainTest,0.8144758335643647
+LSwFW,EPA_category,3,Sensitivity,Train,0.9844288600974682
+LSwFW,EPA_category,3,Specificity,Train,0.9948096200324894
+LSwFW,EPA_category,3,Sensitivity,Test,0.5990202939118264
+LSwFW,EPA_category,3,Specificity,Test,0.8663400979706088
+LSwFW,EPA_category,3,Model Score,TrainTest,0.8123570991621013
+LSwFW,EPA_category,4,Sensitivity,Train,0.9845477237608463
+LSwFW,EPA_category,4,Specificity,Train,0.9948492412536154
+LSwFW,EPA_category,4,Sensitivity,Test,0.6021693491952415
+LSwFW,EPA_category,4,Specificity,Test,0.8673897830650805
+LSwFW,EPA_category,4,Model Score,TrainTest,0.8138306204164744
+LSwFW,EPA_category,5,Sensitivity,Train,0.9839534054439558
+LSwFW,EPA_category,5,Specificity,Train,0.9946511351479853
+LSwFW,EPA_category,5,Sensitivity,Test,0.6014695591322603
+LSwFW,EPA_category,5,Specificity,Test,0.8671565197107535
+LSwFW,EPA_category,5,Model Score,TrainTest,0.8134842411098533
+LSwFW,EPA_category,6,Sensitivity,Train,0.9854986330678711
+LSwFW,EPA_category,6,Specificity,Train,0.9951662110226237
+LSwFW,EPA_category,6,Sensitivity,Test,0.6060181945416375
+LSwFW,EPA_category,6,Specificity,Test,0.8686727315138791
+LSwFW,EPA_category,6,Model Score,TrainTest,0.8156584452216931
+LSwFW,EPA_category,7,Sensitivity,Train,0.9850231784143587
+LSwFW,EPA_category,7,Specificity,Train,0.9950077261381196
+LSwFW,EPA_category,7,Sensitivity,Test,0.6032190342897131
+LSwFW,EPA_category,7,Specificity,Test,0.867739678096571
+LSwFW,EPA_category,7,Model Score,TrainTest,0.8143363219490114
+LSwFW,EPA_category,8,Sensitivity,Train,0.9858552240580055
+LSwFW,EPA_category,8,Specificity,Train,0.9952850746860018
+LSwFW,EPA_category,8,Sensitivity,Test,0.6049685094471658
+LSwFW,EPA_category,8,Specificity,Test,0.8683228364823886
+LSwFW,EPA_category,8,Model Score,TrainTest,0.8151804785439443
+LSwFW,EPA_category,9,Sensitivity,Train,0.9863306787115179
+LSwFW,EPA_category,9,Specificity,Train,0.995443559570506
+LSwFW,EPA_category,9,Sensitivity,Test,0.6081175647305809
+LSwFW,EPA_category,9,Specificity,Test,0.8693725215768603
+LSwFW,EPA_category,9,Model Score,TrainTest,0.816665886164655
+LSwFW,EPA_category,10,Sensitivity,Train,0.9851420420777368
+LSwFW,EPA_category,10,Specificity,Train,0.9950473473592456
+LSwFW,EPA_category,10,Sensitivity,Test,0.6039188243526942
+LSwFW,EPA_category,10,Specificity,Test,0.8679729414508981
+LSwFW,EPA_category,10,Model Score,TrainTest,0.8146668527671819
+LSwFW,EPA_category,11,Sensitivity,Train,0.9852609057411149
+LSwFW,EPA_category,11,Specificity,Train,0.9950869685803716
+LSwFW,EPA_category,11,Sensitivity,Test,0.5997200839748076
+LSwFW,EPA_category,11,Specificity,Test,0.8665733613249359
+LSwFW,EPA_category,11,Model Score,TrainTest,0.8127114027129474
+LSwFW,EPA_category,12,Sensitivity,Train,0.9851420420777368
+LSwFW,EPA_category,12,Specificity,Train,0.9950473473592456
+LSwFW,EPA_category,12,Sensitivity,Test,0.602519244226732
+LSwFW,EPA_category,12,Specificity,Test,0.867506414742244
+LSwFW,EPA_category,12,Model Score,TrainTest,0.8140137153750661
+LSwFW,EPA_category,13,Sensitivity,Train,0.9845477237608463
+LSwFW,EPA_category,13,Specificity,Train,0.9948492412536154
+LSwFW,EPA_category,13,Sensitivity,Test,0.6032190342897131
+LSwFW,EPA_category,13,Specificity,Test,0.867739678096571
+LSwFW,EPA_category,13,Model Score,TrainTest,0.8143204734605609
+LSwFW,EPA_category,14,Sensitivity,Train,0.9846665874242244
+LSwFW,EPA_category,14,Specificity,Train,0.9948888624747415
+LSwFW,EPA_category,14,Sensitivity,Test,0.6053184044786564
+LSwFW,EPA_category,14,Specificity,Test,0.8684394681595521
+LSwFW,EPA_category,14,Model Score,TrainTest,0.8153041416708471
+LSwFW,EPA_category,15,Sensitivity,Train,0.9851420420777368
+LSwFW,EPA_category,15,Specificity,Train,0.9950473473592456
+LSwFW,EPA_category,15,Sensitivity,Test,0.6004198740377886
+LSwFW,EPA_category,15,Specificity,Test,0.8668066246792628
+LSwFW,EPA_category,15,Model Score,TrainTest,0.8130340092868924
+LSwFW,EPA_category,16,Sensitivity,Train,0.9864511528405039
+LSwFW,EPA_category,16,Specificity,Train,0.9954837176135013
+LSwFW,EPA_category,16,Sensitivity,Test,0.6021693491952415
+LSwFW,EPA_category,16,Specificity,Test,0.8673897830650805
+LSwFW,EPA_category,16,Model Score,TrainTest,0.8138940680524629
+LSwFW,EPA_category,17,Sensitivity,Train,0.9855003565486095
+LSwFW,EPA_category,17,Specificity,Train,0.9951667855162032
+LSwFW,EPA_category,17,Sensitivity,Test,0.6035689293212037
+LSwFW,EPA_category,17,Specificity,Test,0.8678563097737345
+LSwFW,EPA_category,17,Model Score,TrainTest,0.8145155122348486
+LSwFW,EPA_category,18,Sensitivity,Train,0.9862134537675303
+LSwFW,EPA_category,18,Specificity,Train,0.9954044845891767
+LSwFW,EPA_category,18,Sensitivity,Test,0.6077676696990902
+LSwFW,EPA_category,18,Specificity,Test,0.8692558898996967
+LSwFW,EPA_category,18,Model Score,TrainTest,0.8164986943184931
+LSwFW,EPA_category,19,Sensitivity,Train,0.9862134537675303
+LSwFW,EPA_category,19,Specificity,Train,0.9954044845891767
+LSwFW,EPA_category,19,Sensitivity,Test,0.6046186144156753
+LSwFW,EPA_category,19,Specificity,Test,0.8682062048052251
+LSwFW,EPA_category,19,Model Score,TrainTest,0.8150291351862329
+LSwFW,GHS_category,0,Sensitivity,Train,0.9860832645359122
+LSwFW,GHS_category,0,Specificity,Train,0.996520816133978
+LSwFW,GHS_category,0,Sensitivity,Test,0.5958999305072967
+LSwFW,GHS_category,0,Specificity,Test,0.8989749826268242
+LSwFW,GHS_category,0,Model Score,TrainTest,0.8157955696670293
+LSwFW,GHS_category,1,Sensitivity,Train,0.9856115107913669
+LSwFW,GHS_category,1,Specificity,Train,0.9964028776978417
+LSwFW,GHS_category,1,Sensitivity,Test,0.592077831827658
+LSwFW,GHS_category,1,Specificity,Test,0.8980194579569145
+LSwFW,GHS_category,1,Model Score,TrainTest,0.8140388540453252
+LSwFW,GHS_category,2,Sensitivity,Train,0.9858473876636396
+LSwFW,GHS_category,2,Specificity,Train,0.9964618469159099
+LSwFW,GHS_category,2,Sensitivity,Test,0.5990271021542738
+LSwFW,GHS_category,2,Specificity,Test,0.8997567755385685
+LSwFW,GHS_category,2,Model Score,TrainTest,0.8172064535170529
+LSwFW,GHS_category,3,Sensitivity,Train,0.9853756339190942
+LSwFW,GHS_category,3,Specificity,Train,0.9963439084797736
+LSwFW,GHS_category,3,Sensitivity,Test,0.5882557331480195
+LSwFW,GHS_category,3,Specificity,Test,0.8970639332870048
+LSwFW,GHS_category,3,Model Score,TrainTest,0.8122921631906928
+LSwFW,GHS_category,4,Sensitivity,Train,0.9857294492275033
+LSwFW,GHS_category,4,Specificity,Train,0.9964323623068758
+LSwFW,GHS_category,4,Sensitivity,Test,0.5962473940236275
+LSwFW,GHS_category,4,Specificity,Test,0.8990618485059069
+LSwFW,GHS_category,4,Model Score,TrainTest,0.8159384112516547
+LSwFW,GHS_category,5,Sensitivity,Train,0.9859653260997759
+LSwFW,GHS_category,5,Specificity,Train,0.996491331524944
+LSwFW,GHS_category,5,Sensitivity,Test,0.5941626129256428
+LSwFW,GHS_category,5,Specificity,Test,0.8985406532314107
+LSwFW,GHS_category,5,Model Score,TrainTest,0.8150011636073294
+LSwFW,GHS_category,6,Sensitivity,Train,0.9875
+LSwFW,GHS_category,6,Specificity,Train,0.996875
+LSwFW,GHS_category,6,Sensitivity,Test,0.5924252953439889
+LSwFW,GHS_category,6,Specificity,Test,0.8981063238359972
+LSwFW,GHS_category,6,Model Score,TrainTest,0.814276993571925
+LSwFW,GHS_category,7,Sensitivity,Train,0.9883254716981132
+LSwFW,GHS_category,7,Specificity,Train,0.9970813679245283
+LSwFW,GHS_category,7,Sensitivity,Test,0.5941626129256428
+LSwFW,GHS_category,7,Specificity,Test,0.8985406532314107
+LSwFW,GHS_category,7,Model Score,TrainTest,0.8151014697952588
+LSwFW,GHS_category,8,Sensitivity,Train,0.9878537735849057
+LSwFW,GHS_category,8,Specificity,Train,0.9969634433962264
+LSwFW,GHS_category,8,Sensitivity,Test,0.5886031966643502
+LSwFW,GHS_category,8,Specificity,Test,0.8971507991660875
+LSwFW,GHS_category,8,Model Score,TrainTest,0.8125553628617226
+LSwFW,GHS_category,9,Sensitivity,Train,0.9875
+LSwFW,GHS_category,9,Specificity,Train,0.996875
+LSwFW,GHS_category,9,Sensitivity,Test,0.5969423210562891
+LSwFW,GHS_category,9,Specificity,Test,0.8992355802640722
+LSwFW,GHS_category,9,Model Score,TrainTest,0.8163294171299513
+LSwFW,GHS_category,10,Sensitivity,Train,0.9863207547169811
+LSwFW,GHS_category,10,Specificity,Train,0.9965801886792452
+LSwFW,GHS_category,10,Sensitivity,Test,0.5965948575399583
+LSwFW,GHS_category,10,Specificity,Test,0.8991487143849896
+LSwFW,GHS_category,10,Model Score,TrainTest,0.8161214204701903
+LSwFW,GHS_category,11,Sensitivity,Train,0.9866745283018868
+LSwFW,GHS_category,11,Specificity,Train,0.9966686320754717
+LSwFW,GHS_category,11,Sensitivity,Test,0.5899930507296733
+LSwFW,GHS_category,11,Specificity,Test,0.8974982626824184
+LSwFW,GHS_category,11,Model Score,TrainTest,0.8131367598781255
+LSwFW,GHS_category,12,Sensitivity,Train,0.9870283018867925
+LSwFW,GHS_category,12,Specificity,Train,0.9967570754716981
+LSwFW,GHS_category,12,Sensitivity,Test,0.5931202223766504
+LSwFW,GHS_category,12,Specificity,Test,0.8982800555941626
+LSwFW,GHS_category,12,Model Score,TrainTest,0.8145727038725792
+LSwFW,GHS_category,13,Sensitivity,Train,0.9864386792452831
+LSwFW,GHS_category,13,Specificity,Train,0.9966096698113207
+LSwFW,GHS_category,13,Sensitivity,Test,0.5979847116052814
+LSwFW,GHS_category,13,Specificity,Test,0.8994961779013204
+LSwFW,GHS_category,13,Model Score,TrainTest,0.8167579472035743
+LSwFW,GHS_category,14,Sensitivity,Train,0.9864386792452831
+LSwFW,GHS_category,14,Specificity,Train,0.9966096698113207
+LSwFW,GHS_category,14,Sensitivity,Test,0.5941626129256428
+LSwFW,GHS_category,14,Specificity,Test,0.8985406532314107
+LSwFW,GHS_category,14,Model Score,TrainTest,0.8150212811160136
+LSwFW,GHS_category,15,Sensitivity,Train,0.9862028301886793
+LSwFW,GHS_category,15,Specificity,Train,0.9965507075471698
+LSwFW,GHS_category,15,Sensitivity,Test,0.5910354412786657
+LSwFW,GHS_category,15,Specificity,Test,0.8977588603196665
+LSwFW,GHS_category,15,Model Score,TrainTest,0.8135903489140125
+LSwFW,GHS_category,16,Sensitivity,Train,0.9865566037735849
+LSwFW,GHS_category,16,Specificity,Train,0.9966391509433963
+LSwFW,GHS_category,16,Sensitivity,Test,0.5931202223766504
+LSwFW,GHS_category,16,Specificity,Test,0.8982800555941626
+LSwFW,GHS_category,16,Model Score,TrainTest,0.8145526567027679
+LSwFW,GHS_category,17,Sensitivity,Train,0.9862028301886793
+LSwFW,GHS_category,17,Specificity,Train,0.9965507075471698
+LSwFW,GHS_category,17,Sensitivity,Test,0.5927727588603197
+LSwFW,GHS_category,17,Specificity,Test,0.8981931897150799
+LSwFW,GHS_category,17,Model Score,TrainTest,0.8143797425901766
+LSwFW,GHS_category,18,Sensitivity,Train,0.9871462264150943
+LSwFW,GHS_category,18,Specificity,Train,0.9967865566037736
+LSwFW,GHS_category,18,Sensitivity,Test,0.5903405142460042
+LSwFW,GHS_category,18,Specificity,Test,0.8975851285615011
+LSwFW,GHS_category,18,Model Score,TrainTest,0.8133146857831697
+LSwFW,GHS_category,19,Sensitivity,Train,0.9877358490566037
+LSwFW,GHS_category,19,Specificity,Train,0.996933962264151
+LSwFW,GHS_category,19,Sensitivity,Test,0.5924252953439889
+LSwFW,GHS_category,19,Specificity,Test,0.8981063238359972
+LSwFW,GHS_category,19,Model Score,TrainTest,0.8142870171568306

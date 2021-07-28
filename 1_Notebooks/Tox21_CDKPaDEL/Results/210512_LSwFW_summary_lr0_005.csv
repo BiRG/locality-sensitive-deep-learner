@@ -1,0 +1,13 @@
+Model,Split,Label,Metric,Type,Score
+LSwFW_model,0,NR-AR,AUC,FirstFit_Test,0.824304322
+LSwFW_model,0,NR-AR,AUC,SecondFit_Test,0.824304322
+LSwFW_model,0,NR-AhR,AUC,FirstFit_Test,0.861389769
+LSwFW_model,0,NR-AhR,AUC,SecondFit_Test,0.861389769
+LSwFW_model,0,NR-AR-LBD,AUC,FirstFit_Test,0.600490196
+LSwFW_model,0,NR-AR-LBD,AUC,SecondFit_Test,0.600490196
+LSwFW_model,0,NR-ER,AUC,FirstFit_Test,0.801181619
+LSwFW_model,0,NR-ER,AUC,SecondFit_Test,0.801181619
+LSwFW_model,0,NR-ER-LBD,AUC,FirstFit_Test,0.761022928
+LSwFW_model,0,NR-ER-LBD,AUC,SecondFit_Test,0.761022928
+LSwFW_model,0,NR-Aromatase,AUC,FirstFit_Test,0.811092342
+LSwFW_model,0,NR-Aromatase,AUC,SecondFit_Test,0.811092342

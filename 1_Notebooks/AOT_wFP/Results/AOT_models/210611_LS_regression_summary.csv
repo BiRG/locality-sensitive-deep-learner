@@ -1,0 +1,11 @@
+Model,Label,Metric,Type,Score
+LS,LD50_mgkg,RMSE,FirstFitTrain,0.20242968674653236
+LS,LD50_mgkg,Rsquared,FirstFitTrain,0.9423549019269089
+LS,LD50_mgkg,RMSE,FirstTest,0.587666912708376
+LS,LD50_mgkg,Rsquared,FirstTest,0.515734627452682
+LS,LD50_mgkg,Model Score,TrainTest,0.6581319843132227
+LS,LD50_mgkg,RMSE,SecondFitTrain,0.1082863348371965
+LS,LD50_mgkg,Rsquared,SecondFitTrain,0.983504659486364
+LS,LD50_mgkg,RMSE,SecondFitTest,0.5830488632439105
+LS,LD50_mgkg,Rsquared,SecondFitTest,0.5233157058567075
+LS,LD50_mgkg,Model Score,TrainTest,0.6654962270740135

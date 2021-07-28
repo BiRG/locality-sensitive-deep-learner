@@ -1,0 +1,301 @@
+Model,Label,Split,Metric,Type,Score
+Combined_dense_LS_stacked,AgonistClass,0,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,0,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,0,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,0,Specificity,Test,0.9916541836079606
+Combined_dense_LS_stacked,AgonistClass,0,Model Score,TrainTest,0.8151695944918127
+Combined_dense_LS_stacked,AgonistClass,1,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,1,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,1,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,1,Specificity,Test,0.9905842071474428
+Combined_dense_LS_stacked,AgonistClass,1,Model Score,TrainTest,0.8149205677521599
+Combined_dense_LS_stacked,AgonistClass,2,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,2,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,2,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,2,Specificity,Test,0.9905842071474428
+Combined_dense_LS_stacked,AgonistClass,2,Model Score,TrainTest,0.8175268332048502
+Combined_dense_LS_stacked,AgonistClass,3,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,3,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,3,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,3,Specificity,Test,0.9912261930237535
+Combined_dense_LS_stacked,AgonistClass,3,Model Score,TrainTest,0.8150152606689158
+Combined_dense_LS_stacked,AgonistClass,4,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,4,Specificity,Train,0.9993485342019544
+Combined_dense_LS_stacked,AgonistClass,4,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,4,Specificity,Test,0.991440188315857
+Combined_dense_LS_stacked,AgonistClass,4,Model Score,TrainTest,0.8150924275803643
+Combined_dense_LS_stacked,AgonistClass,5,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,5,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,5,Sensitivity,Test,0.5542168674698795
+Combined_dense_LS_stacked,AgonistClass,5,Specificity,Test,0.991440188315857
+Combined_dense_LS_stacked,AgonistClass,5,Model Score,TrainTest,0.8126229699452635
+Combined_dense_LS_stacked,AgonistClass,6,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,6,Specificity,Train,0.9993485342019544
+Combined_dense_LS_stacked,AgonistClass,6,Sensitivity,Test,0.5903614457831325
+Combined_dense_LS_stacked,AgonistClass,6,Specificity,Test,0.9863043013053713
+Combined_dense_LS_stacked,AgonistClass,6,Model Score,TrainTest,0.8269101854511368
+Combined_dense_LS_stacked,AgonistClass,7,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,7,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,7,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,7,Specificity,Test,0.9903702118553391
+Combined_dense_LS_stacked,AgonistClass,7,Model Score,TrainTest,0.8174952688992649
+Combined_dense_LS_stacked,AgonistClass,8,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,8,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,8,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,8,Specificity,Test,0.9907982024395463
+Combined_dense_LS_stacked,AgonistClass,8,Model Score,TrainTest,0.8174671922987091
+Combined_dense_LS_stacked,AgonistClass,9,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,9,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,9,Sensitivity,Test,0.5783132530120482
+Combined_dense_LS_stacked,AgonistClass,9,Specificity,Test,0.99101219773165
+Combined_dense_LS_stacked,AgonistClass,9,Model Score,TrainTest,0.822528877086222
+Combined_dense_LS_stacked,AgonistClass,10,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,10,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,10,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,10,Specificity,Test,0.9927241600684785
+Combined_dense_LS_stacked,AgonistClass,10,Model Score,TrainTest,0.8153274160197391
+Combined_dense_LS_stacked,AgonistClass,11,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,11,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,11,Sensitivity,Test,0.5903614457831325
+Combined_dense_LS_stacked,AgonistClass,11,Specificity,Test,0.9901562165632356
+Combined_dense_LS_stacked,AgonistClass,11,Model Score,TrainTest,0.8274327403458087
+Combined_dense_LS_stacked,AgonistClass,12,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,12,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,12,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,12,Specificity,Test,0.9905842071474428
+Combined_dense_LS_stacked,AgonistClass,12,Model Score,TrainTest,0.8174356279931239
+Combined_dense_LS_stacked,AgonistClass,13,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,13,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,13,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,13,Specificity,Test,0.99101219773165
+Combined_dense_LS_stacked,AgonistClass,13,Model Score,TrainTest,0.8174987566042944
+Combined_dense_LS_stacked,AgonistClass,14,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,14,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,14,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,14,Specificity,Test,0.9903702118553391
+Combined_dense_LS_stacked,AgonistClass,14,Model Score,TrainTest,0.8174040636875386
+Combined_dense_LS_stacked,AgonistClass,15,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,15,Specificity,Train,0.9986970684039088
+Combined_dense_LS_stacked,AgonistClass,15,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,15,Specificity,Test,0.9905842071474428
+Combined_dense_LS_stacked,AgonistClass,15,Model Score,TrainTest,0.8174356279931239
+Combined_dense_LS_stacked,AgonistClass,16,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,16,Specificity,Train,0.9986979166666666
+Combined_dense_LS_stacked,AgonistClass,16,Sensitivity,Test,0.572289156626506
+Combined_dense_LS_stacked,AgonistClass,16,Specificity,Test,0.988444254226407
+Combined_dense_LS_stacked,AgonistClass,16,Model Score,TrainTest,0.8196351045566279
+Combined_dense_LS_stacked,AgonistClass,17,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,17,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,17,Sensitivity,Test,0.5662650602409639
+Combined_dense_LS_stacked,AgonistClass,17,Specificity,Test,0.9899422212711321
+Combined_dense_LS_stacked,AgonistClass,17,Model Score,TrainTest,0.8174321402880944
+Combined_dense_LS_stacked,AgonistClass,18,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,18,Specificity,Train,0.9986979166666666
+Combined_dense_LS_stacked,AgonistClass,18,Sensitivity,Test,0.5602409638554217
+Combined_dense_LS_stacked,AgonistClass,18,Specificity,Test,0.9907982024395463
+Combined_dense_LS_stacked,AgonistClass,18,Model Score,TrainTest,0.8149521914361382
+Combined_dense_LS_stacked,AgonistClass,19,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,19,Specificity,Train,1.0
+Combined_dense_LS_stacked,AgonistClass,19,Sensitivity,Test,0.5301204819277109
+Combined_dense_LS_stacked,AgonistClass,19,Specificity,Test,0.99101219773165
+Combined_dense_LS_stacked,AgonistClass,19,Model Score,TrainTest,0.8024996003702378
+Combined_dense_LS_stacked,AntagonistClass,0,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,0,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,0,Sensitivity,Test,0.30140845070422534
+Combined_dense_LS_stacked,AntagonistClass,0,Specificity,Test,0.9563093622795116
+Combined_dense_LS_stacked,AntagonistClass,0,Model Score,TrainTest,0.701893659105242
+Combined_dense_LS_stacked,AntagonistClass,1,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,1,Specificity,Train,0.9992289899768697
+Combined_dense_LS_stacked,AntagonistClass,1,Sensitivity,Test,0.3154929577464789
+Combined_dense_LS_stacked,AntagonistClass,1,Specificity,Test,0.95359565807327
+Combined_dense_LS_stacked,AntagonistClass,1,Model Score,TrainTest,0.7073196987233431
+Combined_dense_LS_stacked,AntagonistClass,2,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,2,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,2,Sensitivity,Test,0.30704225352112674
+Combined_dense_LS_stacked,AntagonistClass,2,Specificity,Test,0.9544097693351424
+Combined_dense_LS_stacked,AntagonistClass,2,Model Score,TrainTest,0.7039655818220039
+Combined_dense_LS_stacked,AntagonistClass,3,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,3,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,3,Sensitivity,Test,0.29859154929577464
+Combined_dense_LS_stacked,AntagonistClass,3,Specificity,Test,0.9560379918588874
+Combined_dense_LS_stacked,AntagonistClass,3,Model Score,TrainTest,0.7006775756301717
+Combined_dense_LS_stacked,AntagonistClass,4,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,4,Specificity,Train,0.9992289899768697
+Combined_dense_LS_stacked,AntagonistClass,4,Sensitivity,Test,0.29577464788732394
+Combined_dense_LS_stacked,AntagonistClass,4,Specificity,Test,0.9579375848032564
+Combined_dense_LS_stacked,AntagonistClass,4,Model Score,TrainTest,0.6997277385498188
+Combined_dense_LS_stacked,AntagonistClass,5,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,5,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,5,Sensitivity,Test,0.29859154929577464
+Combined_dense_LS_stacked,AntagonistClass,5,Specificity,Test,0.9554952510176391
+Combined_dense_LS_stacked,AntagonistClass,5,Model Score,TrainTest,0.7005975213560877
+Combined_dense_LS_stacked,AntagonistClass,6,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,6,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,6,Sensitivity,Test,0.30140845070422534
+Combined_dense_LS_stacked,AntagonistClass,6,Specificity,Test,0.9563093622795116
+Combined_dense_LS_stacked,AntagonistClass,6,Model Score,TrainTest,0.701893659105242
+Combined_dense_LS_stacked,AntagonistClass,7,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,7,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,7,Sensitivity,Test,0.30140845070422534
+Combined_dense_LS_stacked,AntagonistClass,7,Specificity,Test,0.9554952510176391
+Combined_dense_LS_stacked,AntagonistClass,7,Model Score,TrainTest,0.7017735776941159
+Combined_dense_LS_stacked,AntagonistClass,8,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,8,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,8,Sensitivity,Test,0.29577464788732394
+Combined_dense_LS_stacked,AntagonistClass,8,Specificity,Test,0.9557666214382632
+Combined_dense_LS_stacked,AntagonistClass,8,Model Score,TrainTest,0.6994614921551016
+Combined_dense_LS_stacked,AntagonistClass,9,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,9,Specificity,Train,0.9984591679506933
+Combined_dense_LS_stacked,AntagonistClass,9,Sensitivity,Test,0.29014084507042254
+Combined_dense_LS_stacked,AntagonistClass,9,Specificity,Test,0.9609226594301221
+Combined_dense_LS_stacked,AntagonistClass,9,Model Score,TrainTest,0.6977620368393929
+Combined_dense_LS_stacked,AntagonistClass,10,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,10,Specificity,Train,0.9984591679506933
+Combined_dense_LS_stacked,AntagonistClass,10,Sensitivity,Test,0.30140845070422534
+Combined_dense_LS_stacked,AntagonistClass,10,Specificity,Test,0.9546811397557666
+Combined_dense_LS_stacked,AntagonistClass,10,Model Score,TrainTest,0.7015456380395382
+Combined_dense_LS_stacked,AntagonistClass,11,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,11,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,11,Sensitivity,Test,0.29295774647887324
+Combined_dense_LS_stacked,AntagonistClass,11,Specificity,Test,0.9584803256445047
+Combined_dense_LS_stacked,AntagonistClass,11,Model Score,TrainTest,0.698685707187494
+Combined_dense_LS_stacked,AntagonistClass,12,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,12,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,12,Sensitivity,Test,0.29014084507042254
+Combined_dense_LS_stacked,AntagonistClass,12,Specificity,Test,0.9571234735413839
+Combined_dense_LS_stacked,AntagonistClass,12,Model Score,TrainTest,0.6973095151642554
+Combined_dense_LS_stacked,AntagonistClass,13,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,13,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,13,Sensitivity,Test,0.30422535211267604
+Combined_dense_LS_stacked,AntagonistClass,13,Specificity,Test,0.9579375848032564
+Combined_dense_LS_stacked,AntagonistClass,13,Model Score,TrainTest,0.7033098782655225
+Combined_dense_LS_stacked,AntagonistClass,14,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,14,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,14,Sensitivity,Test,0.29577464788732394
+Combined_dense_LS_stacked,AntagonistClass,14,Specificity,Test,0.9579375848032564
+Combined_dense_LS_stacked,AntagonistClass,14,Model Score,TrainTest,0.699781709251438
+Combined_dense_LS_stacked,AntagonistClass,15,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,15,Specificity,Train,0.9984591679506933
+Combined_dense_LS_stacked,AntagonistClass,15,Sensitivity,Test,0.29014084507042254
+Combined_dense_LS_stacked,AntagonistClass,15,Specificity,Test,0.9571234735413839
+Combined_dense_LS_stacked,AntagonistClass,15,Model Score,TrainTest,0.6972016569208039
+Combined_dense_LS_stacked,AntagonistClass,16,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,16,Specificity,Train,0.9992295839753467
+Combined_dense_LS_stacked,AntagonistClass,16,Sensitivity,Test,0.29859154929577464
+Combined_dense_LS_stacked,AntagonistClass,16,Specificity,Test,0.9573948439620081
+Combined_dense_LS_stacked,AntagonistClass,16,Model Score,TrainTest,0.7008237821936564
+Combined_dense_LS_stacked,AntagonistClass,17,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,17,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,17,Sensitivity,Test,0.29859154929577464
+Combined_dense_LS_stacked,AntagonistClass,17,Specificity,Test,0.9568521031207599
+Combined_dense_LS_stacked,AntagonistClass,17,Model Score,TrainTest,0.7007976570412979
+Combined_dense_LS_stacked,AntagonistClass,18,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,18,Specificity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,18,Sensitivity,Test,0.29295774647887324
+Combined_dense_LS_stacked,AntagonistClass,18,Specificity,Test,0.9576662143826323
+Combined_dense_LS_stacked,AntagonistClass,18,Model Score,TrainTest,0.6985656257763677
+Combined_dense_LS_stacked,AntagonistClass,19,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,AntagonistClass,19,Specificity,Train,0.9992295839753467
+Combined_dense_LS_stacked,AntagonistClass,19,Sensitivity,Test,0.29577464788732394
+Combined_dense_LS_stacked,AntagonistClass,19,Specificity,Test,0.9565807327001357
+Combined_dense_LS_stacked,AntagonistClass,19,Model Score,TrainTest,0.6995276444445021
+Combined_dense_LS_stacked,BindingClass,0,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,0,Specificity,Train,0.9992805755395684
+Combined_dense_LS_stacked,BindingClass,0,Sensitivity,Test,0.4668141592920354
+Combined_dense_LS_stacked,BindingClass,0,Specificity,Test,0.9478134110787172
+Combined_dense_LS_stacked,BindingClass,0,Model Score,TrainTest,0.7696470299263053
+Combined_dense_LS_stacked,BindingClass,1,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,1,Specificity,Train,0.9992805755395684
+Combined_dense_LS_stacked,BindingClass,1,Sensitivity,Test,0.4668141592920354
+Combined_dense_LS_stacked,BindingClass,1,Specificity,Test,0.9454810495626822
+Combined_dense_LS_stacked,BindingClass,1,Model Score,TrainTest,0.7693030066026901
+Combined_dense_LS_stacked,BindingClass,2,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,2,Specificity,Train,0.9992805755395684
+Combined_dense_LS_stacked,BindingClass,2,Sensitivity,Test,0.46238938053097345
+Combined_dense_LS_stacked,BindingClass,2,Specificity,Test,0.9495626822157435
+Combined_dense_LS_stacked,BindingClass,2,Model Score,TrainTest,0.7680577022862733
+Combined_dense_LS_stacked,BindingClass,3,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,3,Specificity,Train,0.9992805755395684
+Combined_dense_LS_stacked,BindingClass,3,Sensitivity,Test,0.4690265486725664
+Combined_dense_LS_stacked,BindingClass,3,Specificity,Test,0.9483965014577259
+Combined_dense_LS_stacked,BindingClass,3,Model Score,TrainTest,0.7706567083235807
+Combined_dense_LS_stacked,BindingClass,4,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,4,Specificity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,4,Sensitivity,Test,0.4668141592920354
+Combined_dense_LS_stacked,BindingClass,4,Specificity,Test,0.9483965014577259
+Combined_dense_LS_stacked,BindingClass,4,Model Score,TrainTest,0.7697833954694393
+Combined_dense_LS_stacked,BindingClass,5,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,5,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,5,Sensitivity,Test,0.4557522123893805
+Combined_dense_LS_stacked,BindingClass,5,Specificity,Test,0.9492711370262391
+Combined_dense_LS_stacked,BindingClass,5,Model Score,TrainTest,0.7652437178756691
+Combined_dense_LS_stacked,BindingClass,6,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,6,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,6,Sensitivity,Test,0.46017699115044247
+Combined_dense_LS_stacked,BindingClass,6,Specificity,Test,0.9475218658892128
+Combined_dense_LS_stacked,BindingClass,6,Model Score,TrainTest,0.7668330455157011
+Combined_dense_LS_stacked,BindingClass,7,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,7,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,7,Sensitivity,Test,0.46238938053097345
+Combined_dense_LS_stacked,BindingClass,7,Specificity,Test,0.9498542274052478
+Combined_dense_LS_stacked,BindingClass,7,Model Score,TrainTest,0.768100741405688
+Combined_dense_LS_stacked,BindingClass,8,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,8,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,8,Sensitivity,Test,0.4668141592920354
+Combined_dense_LS_stacked,BindingClass,8,Specificity,Test,0.9486880466472303
+Combined_dense_LS_stacked,BindingClass,8,Model Score,TrainTest,0.7697760748766237
+Combined_dense_LS_stacked,BindingClass,9,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,9,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,9,Sensitivity,Test,0.46017699115044247
+Combined_dense_LS_stacked,BindingClass,9,Specificity,Test,0.9498542274052478
+Combined_dense_LS_stacked,BindingClass,9,Model Score,TrainTest,0.7671770688393162
+Combined_dense_LS_stacked,BindingClass,10,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,10,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,10,Sensitivity,Test,0.46238938053097345
+Combined_dense_LS_stacked,BindingClass,10,Specificity,Test,0.9492711370262391
+Combined_dense_LS_stacked,BindingClass,10,Model Score,TrainTest,0.7680147355747842
+Combined_dense_LS_stacked,BindingClass,11,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,11,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,11,Sensitivity,Test,0.4557522123893805
+Combined_dense_LS_stacked,BindingClass,11,Specificity,Test,0.9469387755102041
+Combined_dense_LS_stacked,BindingClass,11,Model Score,TrainTest,0.7648996945520539
+Combined_dense_LS_stacked,BindingClass,12,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,12,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,12,Sensitivity,Test,0.4646017699115044
+Combined_dense_LS_stacked,BindingClass,12,Specificity,Test,0.9460641399416909
+Combined_dense_LS_stacked,BindingClass,12,Model Score,TrainTest,0.7684653760711849
+Combined_dense_LS_stacked,BindingClass,13,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,13,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,13,Sensitivity,Test,0.4646017699115044
+Combined_dense_LS_stacked,BindingClass,13,Specificity,Test,0.9486880466472303
+Combined_dense_LS_stacked,BindingClass,13,Model Score,TrainTest,0.7688524023102521
+Combined_dense_LS_stacked,BindingClass,14,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,14,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,14,Sensitivity,Test,0.4646017699115044
+Combined_dense_LS_stacked,BindingClass,14,Specificity,Test,0.9478134110787172
+Combined_dense_LS_stacked,BindingClass,14,Model Score,TrainTest,0.7687233935638964
+Combined_dense_LS_stacked,BindingClass,15,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,15,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,15,Sensitivity,Test,0.46238938053097345
+Combined_dense_LS_stacked,BindingClass,15,Specificity,Test,0.9551020408163265
+Combined_dense_LS_stacked,BindingClass,15,Model Score,TrainTest,0.7688747938838221
+Combined_dense_LS_stacked,BindingClass,16,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,16,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,16,Sensitivity,Test,0.4690265486725664
+Combined_dense_LS_stacked,BindingClass,16,Specificity,Test,0.9486880466472303
+Combined_dense_LS_stacked,BindingClass,16,Model Score,TrainTest,0.7706997474429953
+Combined_dense_LS_stacked,BindingClass,17,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,17,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,17,Sensitivity,Test,0.48008849557522126
+Combined_dense_LS_stacked,BindingClass,17,Specificity,Test,0.9469387755102041
+Combined_dense_LS_stacked,BindingClass,17,Model Score,TrainTest,0.7750600927821425
+Combined_dense_LS_stacked,BindingClass,18,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,18,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,18,Sensitivity,Test,0.4579646017699115
+Combined_dense_LS_stacked,BindingClass,18,Specificity,Test,0.9492711370262391
+Combined_dense_LS_stacked,BindingClass,18,Model Score,TrainTest,0.7661673904420407
+Combined_dense_LS_stacked,BindingClass,19,Sensitivity,Train,1.0
+Combined_dense_LS_stacked,BindingClass,19,Specificity,Train,0.9992810927390366
+Combined_dense_LS_stacked,BindingClass,19,Sensitivity,Test,0.4690265486725664
+Combined_dense_LS_stacked,BindingClass,19,Specificity,Test,0.9472303206997085
+Combined_dense_LS_stacked,BindingClass,19,Model Score,TrainTest,0.770484732865736

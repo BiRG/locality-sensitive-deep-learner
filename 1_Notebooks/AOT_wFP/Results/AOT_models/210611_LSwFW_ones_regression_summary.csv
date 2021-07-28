@@ -1,0 +1,11 @@
+Model,Label,Metric,Type,Score
+LSwFW_ones,LD50_mgkg,RMSE,FirstFitTrain,0.20641407411661486
+LSwFW_ones,LD50_mgkg,Rsquared,FirstFitTrain,0.9400633331003165
+LSwFW_ones,LD50_mgkg,RMSE,FirstTest,0.5836791945747186
+LSwFW_ones,LD50_mgkg,Rsquared,FirstTest,0.5222844665137394
+LSwFW_ones,LD50_mgkg,Model Score,TrainTest,0.6626022932146334
+LSwFW_ones,LD50_mgkg,RMSE,SecondFitTrain,0.09835573822338986
+LSwFW_ones,LD50_mgkg,Rsquared,SecondFitTrain,0.9863914021272556
+LSwFW_ones,LD50_mgkg,RMSE,SecondFitTest,0.5792920541379466
+LSwFW_ones,LD50_mgkg,Rsquared,SecondFitTest,0.5294388374257518
+LSwFW_ones,LD50_mgkg,Model Score,TrainTest,0.6699267563043891

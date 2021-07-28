@@ -1,0 +1,11 @@
+Model,Label,Metric,Type,Score
+dense,LD50_mgkg,RMSE,FirstFitTrain,0.1858370418298079
+dense,LD50_mgkg,Rsquared,FirstFitTrain,0.951417647173374
+dense,LD50_mgkg,RMSE,FirstTest,0.6010438999313042
+dense,LD50_mgkg,Rsquared,FirstTest,0.49343716391411807
+dense,LD50_mgkg,Model Score,TrainTest,0.6429768970985514
+dense,LD50_mgkg,RMSE,SecondFitTrain,0.10519633698769605
+dense,LD50_mgkg,Rsquared,SecondFitTrain,0.9844326312955551
+dense,LD50_mgkg,RMSE,SecondFitTest,0.5993129545402751
+dense,LD50_mgkg,Rsquared,SecondFitTest,0.49635066162056196
+dense,LD50_mgkg,Model Score,TrainTest,0.646667094699171

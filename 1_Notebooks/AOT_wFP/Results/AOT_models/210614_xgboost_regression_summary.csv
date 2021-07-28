@@ -1,0 +1,6 @@
+Model,Label,Metric,Type,Score
+xgboost,LD50_mgkg,RMSE,FirstFitTrain,0.07569906229851396
+xgboost,LD50_mgkg,Rsquared,FirstFitTrain,0.9919388876153088
+xgboost,LD50_mgkg,RMSE,FirstTest,0.6027898784961608
+xgboost,LD50_mgkg,Rsquared,FirstTest,0.49048985016727664
+xgboost,LD50_mgkg,Model Score,TrainTest,0.642939839497859

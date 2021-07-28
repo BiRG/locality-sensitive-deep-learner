@@ -1,0 +1,6 @@
+Model,Split,Label,Metric,Type,Score
+LS_model,0,SR-ARE,AUC,Test,0.800
+LS_model,0,SR-ATAD5,AUC,Test,0.779
+LS_model,0,SR-HSE,AUC,Test,0.742
+LS_model,0,SR-MMP,AUC,Test,0.913
+LS_model,0,SR-p53,AUC,Test,0.824

@@ -1,0 +1,27 @@
+# python ./base_rf.py
+# python ./stacking.py
+# python ./mlc.py -m "ClassifierChains" -l "learned_label_partitioning_q.ob"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_00"
+python ./mlc.py -m "LabelPowersets" -l "learned_label_partitioning_q.ob"
+python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_00"
+
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_01"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_02"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_03"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_04"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_05"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_06"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_07"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_08"
+# python ./mlc.py -m "ClassifierChains" -l "random_label_partitioning_09"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_00"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_01"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_02"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_03"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_04"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_05"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_06"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_07"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_08"
+# python ./mlc.py -m "LabelPowersets" -l "random_label_partitioning_09"
+# C:/Windows/System32/shutdown.exe -sg

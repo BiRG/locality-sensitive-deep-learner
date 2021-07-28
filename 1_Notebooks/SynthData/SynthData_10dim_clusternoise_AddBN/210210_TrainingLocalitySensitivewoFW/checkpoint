@@ -1,0 +1,2 @@
+model_checkpoint_path: "LocalitySensitivewoFW_label"
+all_model_checkpoint_paths: "LocalitySensitivewoFW_label"
