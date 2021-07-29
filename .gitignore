@@ -1,0 +1,3 @@
+#Ignore files greater than 100MB because git LFS is not enabled in repository
+data/processed/AOT_CDKPaDELMorgan2_filtered.csv 
+data/processed/XY_CoMPARA_CDKPaDELFP_filtered2.csv 
