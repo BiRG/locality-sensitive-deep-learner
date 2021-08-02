@@ -1,3 +1,4 @@
 data/* filter=lfs diff=lfs merge=lfs -text
 data/processed/AOT_CDKPaDELMorgan2_filtered.csv filter=lfs diff=lfs merge=lfs -text
 data/processed/XY_CoMPARA_CDKPaDELFP_filtered2.csv filter=lfs diff=lfs merge=lfs -text
+1_Notebooks/AChEi/Exploration/AChEi_smiles_humanOnly/210504_LSwFW_RobustScaler_AChEi_HumanOnly_MorganOnly_/model_checkpoint.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text

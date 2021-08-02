@@ -1,3 +1,5 @@
 #Ignore files greater than 100MB because git LFS is not enabled in repository
 data/processed/AOT_CDKPaDELMorgan2_filtered.csv 
-data/processed/XY_CoMPARA_CDKPaDELFP_filtered2.csv 
+data/processed/XY_CoMPARA_CDKPaDELFP_filtered2.csv
+1_Notebooks/AChEi/Exploration/AChEi_smiles_humanOnly/210504_LSwFW_RobustScaler_AChEi_HumanOnly_MorganOnly_/model_checkpoint.data-00000-of-00001
+
